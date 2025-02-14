@@ -1,0 +1,29 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.8;
+    background-color: #ffffff;
+}
+
+h2 {
+    color: #ff7f72; 
+}
+
+p {
+    font-size: 18px; 
+    color: #333; 
+}
+
+ul {
+    list-style-type: circle; 
+}
+
+ol {
+    list-style-type: upper-alpha; 
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #000; 
+    color: #fff; 
+}
